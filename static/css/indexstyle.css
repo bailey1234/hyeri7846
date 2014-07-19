@@ -1,0 +1,184 @@
+.logo{
+ text-align: center;
+
+}  
+
+
+#front {
+
+  position: absolute;
+  left: 1025px;
+  top:520px;
+
+}
+
+.sofit {
+  position: absolute;
+   left:133px;
+  top:833px;
+
+}
+
+
+
+} 
+.sitename{
+  text-align: left;
+  font-family: impact;
+  font-size: 60px;
+
+}
+
+
+
+.label{ 
+  font: normal normal bold 28px/1.4em 'Oswald', sans-serif;
+  transition: all 0.4s ease 0s;
+  -webkit-transition: all 0.4s ease 0s;
+  color: rgb(236, 203, 187);
+  white-space: nowrap;
+  margin: -5px 5px 0px;
+  display: inline-block;
+  border-radius: 7px;
+  position: absolute;
+  left: 845px;
+  top:614px;
+  border: 5px solid rgb(236, 203, 187);
+  font-size: 30px;
+line-height:187px;
+
+}
+
+
+.facebook_01{
+
+ width: 165px;
+font:  bold 28px/1.4em 'Oswald', sans-serif;
+line-height:233px;
+  transition: all 0.4s ease 0s;
+  -webkit-transition: all 0.4s ease 0s;
+  color: rgb(159,221,208);
+  white-space: nowrap;
+  margin: -5px 5px 0px;
+  border: 5px solid rgb(159,221,208);
+  border-radius: 7px;
+
+ position: absolute;
+  left:680px;
+  top:620px;
+}
+
+.lion_01{
+width: 233px;
+    
+font:  bold 28px/1.4em 'Oswald', sans-serif;
+line-height:207px;
+  transition: all 0.4s ease 0s;
+  -webkit-transition: all 0.4s ease 0s;
+  color: rgb(249,199,126);
+  white-space: nowrap;
+  margin: -5px 5px 0px;
+  border: 5px solid rgb(249,199,126);
+  border-radius: 7px;
+     position: absolute;
+  left:676px;
+  top:860px;
+
+}
+
+
+
+
+
+.spot{
+
+ width: 165px;
+font:  bold 28px/1.4em 'Oswald', sans-serif;
+line-height:233px;
+  transition: all 0.4s ease 0s;
+  -webkit-transition: all 0.4s ease 0s;
+  color: rgb(159,221,208);
+  white-space: nowrap;
+  margin: -5px 5px 0px;
+  border: 5px solid rgb(159,221,208);
+  border-radius: 7px;
+
+ position: absolute;
+  left:680px;
+  top:620px;
+}
+
+.label:hover{
+  color: rgb(235, 112, 124);
+  border: 5px solid rgb(235, 112, 124);
+
+}
+
+.facebook_01:hover{
+  color: rgb(108, 231,218);
+  border: 5px solid rgb(108, 231,218);
+  
+
+}
+
+.lion_01:hover{
+  color: rgb(228,139,7);
+  border: 5px solid rgb(228,139,7);
+  
+
+}
+.dream01{
+   position: absolute;
+  left:142px;
+  top:580px;
+
+}
+.facebook{
+    position: absolute;
+  left:685px;
+  top:620px;
+
+}
+
+
+.sook01{
+  position: absolute;
+  left:445px;
+  top:620px;
+
+}
+.sopt01{
+  position: absolute;
+  left:912px;
+  top:822px;
+
+}
+.lion01{
+  position: absolute;
+  left:680px;
+  top:860px;
+
+}
+
+.camp01{
+  position: absolute;
+  left:142px;
+  top:1150px;
+}
+
+.sopt_av{
+  position: absolute;
+  left:680px;
+  top:1075px;
+}
+#flower{
+ position: absolute;
+ left:430px;
+ top:600px;
+}
+
+#sofit{
+  position: absolute;
+  left:679px;
+  top:679px;
+}
